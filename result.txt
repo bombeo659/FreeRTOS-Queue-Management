@@ -1,0 +1,383 @@
+Task Angle is sent.
+Task Angle is sent.
+Task Angle is sent.
+Queue is full
+Task Angle is sent.
+Set value of angle = -1.000000
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.380002
+Queue is full
+Task Angle is sent.
+Set value of angle = 0.010837
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.182981
+Queue is full
+Task Angle is sent.
+Set value of speed = 20.000000
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.109570
+Queue is full
+Task Angle is sent.
+Set value of speed = 26.900009
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.243142
+Queue is full
+Task Angle is sent.
+Set value of speed = 25.054184
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.484536
+Queue is full
+Task Angle is sent.
+Set value of speed = 25.914906
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.585236
+Queue is full
+Task Angle is sent.
+Set value of speed = 25.547848
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.252524
+Queue is full
+Task Angle is sent.
+Set value of speed = 23.784288
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.319746
+Queue is full
+Task Angle is sent.
+Set value of speed = 22.577322
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.687704
+Queue is full
+Task Angle is sent.
+Set value of speed = 22.073822
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.862444
+Queue is full
+Task Angle is sent.
+Set value of speed = 26.262619
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.180186
+Queue is full
+Task Angle is sent.
+Set value of speed = 23.401270
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.759988
+Queue is full
+Task Angle is sent.
+Set value of speed = 28.438519
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.361039
+Queue is full
+Task Angle is sent.
+Set value of speed = 20.687780
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.961136
+Queue is full
+Task Angle is sent.
+Set value of speed = 24.099070
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.829990
+Queue is full
+Task Angle is sent.
+Set value of speed = 28.799940
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.815258
+Queue is full
+Task Angle is sent.
+Set value of speed = 23.194803
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.794981
+Queue is full
+Task Angle is sent.
+Set value of speed = 29.805681
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.843956
+Queue is full
+Task Angle is sent.
+Set value of speed = 20.850048
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.015102
+Queue is full
+Task Angle is sent.
+Set value of speed = 29.076290
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.744578
+Queue is full
+Task Angle is sent.
+Set value of speed = 21.025095
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.333481
+Queue is full
+Task Angle is sent.
+Set value of speed = 29.219778
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.384819
+Queue is full
+Task Angle is sent.
+Set value of speed = 25.075512
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.113892
+Queue is full
+Task Angle is sent.
+Set value of speed = 28.722893
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.276170
+Queue is full
+Task Angle is sent.
+Set value of speed = 23.332598
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.936012
+Queue is full
+Task Angle is sent.
+Set value of speed = 26.924095
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.717022
+Queue is full
+Task Angle is sent.
+Set value of speed = 25.569462
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.802031
+Queue is full
+Task Angle is sent.
+Set value of speed = 23.619152
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.754135
+Queue is full
+Task Angle is sent.
+Set value of speed = 20.319939
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.101482
+Queue is full
+Task Angle is sent.
+Set value of speed = 28.585110
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.135615
+Queue is full
+Task Angle is sent.
+Set value of speed = 20.989845
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.212536
+Queue is full
+Task Angle is sent.
+Set value of speed = 28.770676
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.855675
+Queue is full
+Task Angle is sent.
+Set value of speed = 24.492588
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.328571
+Queue is full
+Task Angle is sent.
+Set value of speed = 24.321926
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.209269
+Queue is full
+Task Angle is sent.
+Set value of speed = 26.062679
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.123062
+Queue is full
+Task Angle is sent.
+Set value of speed = 29.278378
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.304250
+Queue is full
+Task Angle is sent.
+Set value of speed = 26.642857
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.857727
+Queue is full
+Task Angle is sent.
+Set value of speed = 23.953653
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.898287
+Queue is full
+Task Angle is sent.
+Set value of speed = 24.384689
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.385329
+Queue is full
+Task Angle is sent.
+Set value of speed = 26.521252
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.192966
+Queue is full
+Task Angle is sent.
+Set value of speed = 29.288635
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.566152
+Queue is full
+Task Angle is sent.
+Set value of speed = 29.491432
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.323939
+Queue is full
+Task Angle is sent.
+Set value of speed = 23.073357
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.610506
+Queue is full
+Task Angle is sent.
+Set value of speed = 25.964828
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.884393
+Queue is full
+Task Angle is sent.
+Set value of speed = 27.830761
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.867053
+Queue is full
+Task Angle is sent.
+Set value of speed = 23.380304
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.714174
+Queue is full
+Task Angle is sent.
+Set value of speed = 28.052528
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.954437
+Queue is full
+Task Angle is sent.
+Set value of speed = 29.421967
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.779292
+Queue is full
+Task Angle is sent.
+Set value of speed = 20.664734
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.090551
+Queue is full
+Task Angle is sent.
+Set value of speed = 28.570869
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.728743
+Queue is full
+Task Angle is sent.
+Set value of speed = 29.772182
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.084455
+Queue is full
+Task Angle is sent.
+Set value of speed = 28.896461
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.600439
+Queue is full
+Task Angle is sent.
+Set value of speed = 25.452757
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.747411
+Queue is full
+Task Angle is sent.
+Set value of speed = 28.643717
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.643637
+Queue is full
+Task Angle is sent.
+Set value of speed = 24.577726
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.628548
+Queue is full
+Task Angle is sent.
+Set value of speed = 28.002193
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.827470
+Queue is full
+Task Angle is sent.
+Set value of speed = 28.737057
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.276312
+Queue is full
+Task Angle is sent.
+Set value of speed = 28.218185
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.532344
+Queue is full
+Task Angle is sent.
+Set value of speed = 21.857262
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.074557
+Queue is full
+Task Angle is sent.
+Set value of speed = 20.862650
+Queue is full
+Task Speed is sent.
+Set value of angle = -0.985160
+Queue is full
+Task Angle is sent.
+Set value of speed = 26.381557
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.270021
+Queue is full
+Task Angle is sent.
+Set value of speed = 22.338280
+Queue is full
+Task Angle is sent.
+Set value of speed = 26.350105
+Queue is full
+Task Speed is sent.
+Set value of angle = 0.941501
+Queue is full
+Task Angle is sent.
+Set value of speed = 24.212511
+Queue is full
+Task Speed is sent.
